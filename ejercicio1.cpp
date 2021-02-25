@@ -23,7 +23,6 @@ void loop() {
 	multiplicacion = n1 * n2;
 	division = n1 / n2;
 
-  Serial.println("La suma es: " + String(suma));
   Serial.println("La resta es: " + String(resta));
   Serial.println("La multiplicación es: " + String(multiplicacion));
   Serial.println("La división es: " + String(division));
